@@ -61,6 +61,12 @@ To run the **Ultimate Math Game** on your local machine, follow these steps:
 5. Push to your branch: `git push origin feature-name`.
 6. Open a pull request.
 
+## Special Thanks to Dr. Mohammed Abu-Hadhoud
+
+I would like to express my deepest gratitude to **Dr. Mohammed Abu-Hadhoud** for his invaluable guidance and mentorship in programming. His dedication and expertise have significantly contributed to my learning and growth in the field. The knowledge I have gained under his instruction has played a crucial role in the development of this project.
+
+Thank you for being such an inspiring teacher!
+
 ## Author
 
 - **Ahmad Shdeed (Onyxl)**  
