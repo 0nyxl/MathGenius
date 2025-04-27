@@ -34,7 +34,7 @@ To run the **Ultimate Math Game** on your local machine, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Ultimate-Math-Game.git
+    git clone https://github.com/0nyxl/MathGenius.git
     ```
 
 2. **Compile the Program** (if necessary):
